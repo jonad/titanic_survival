@@ -27,6 +27,7 @@ This will open the Jupyter Notebook software and project file in your web browse
 ### Data
 
 The dataset used in this project is included as `titanic_data.csv`. 
+
 **Features**
 - `pclass` : Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
 - `name` : Name
