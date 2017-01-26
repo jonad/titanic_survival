@@ -9,11 +9,11 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+-  [Jupyter Notebook](http://ipython.org/notebook.html)
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run one of the following commands:
+avigate to the top-level project directory `titanic_survival_exploration/` and run one of the following commands:
 
 ```bash
 jupyter notebook titanic_survival_exploration.ipynb
@@ -22,8 +22,6 @@ or
 ```bash
 ipython notebook titanic_survival_exploration.ipynb
 ```
-
-This will open the Jupyter Notebook software and project file in your web browser.
 
 ### Data
 
