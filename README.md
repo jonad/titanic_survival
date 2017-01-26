@@ -13,7 +13,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 ### Run
 
-avigate to the top-level project directory `titanic_survival_exploration/` and run one of the following commands:
+Navigate to the top-level project directory `titanic_survival_exploration/` and run one of the following commands:
 
 ```bash
 jupyter notebook titanic_survival_exploration.ipynb
